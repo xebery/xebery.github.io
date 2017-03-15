@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chen_Nuo&#39;s Blog</title>
+  <subtitle>小打小闹，总是新的开始</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://chennuo.online/"/>
+  <updated>2017-03-14T10:03:09.852Z</updated>
+  <id>http://chennuo.online/</id>
+  
+  <author>
+    <name>晨诺</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Next主题修改心得</title>
+    <link href="http://chennuo.online/2017/03/13/Next%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%BF%83%E5%BE%97/"/>
+    <id>http://chennuo.online/2017/03/13/Next主题修改心得/</id>
+    <published>2017-03-13T15:52:36.000Z</published>
+    <updated>2017-03-14T10:03:09.852Z</updated>
+    
+    <content type="html"><![CDATA[<p>其实就是记录下自己修改Next主题的一些笔记</p>
+<a id="more"></a>
+<h3 id="网站标题设置"><a href="#网站标题设置" class="headerlink" title="网站标题设置"></a>网站标题设置</h3><blockquote>
+<p>/source/css/_schemes/Muse/_logo.styl<br>.site-title</p>
+</blockquote>
+<h3 id="网站副标题设置"><a href="#网站副标题设置" class="headerlink" title="网站副标题设置"></a>网站副标题设置</h3><blockquote>
+<p>/source/css/_common/components/header/site-meta.styl<br>.site-subtitle</p>
+</blockquote>
+<h3 id="网站banner设置"><a href="#网站banner设置" class="headerlink" title="网站banner设置"></a>网站banner设置</h3><blockquote>
+<p>/layout/_partials/header.swig<br>/source/css/_schemes/Muse/_logo.styl  背景图url设置<br>关于banner，我是在header.swig中重新布局的，仅针对Muse主题。其中的设计来自<a href="https://notes.wanghao.work/" target="_blank" rel="external">夏末</a>,也就是next主题作者的banner   </p>
+</blockquote>
+<p><strong>如果有人知道那个背景跟随鼠标移动式怎么实现的，还希望能得到分享</strong></p>
+<h3 id="网站sidebar设置"><a href="#网站sidebar设置" class="headerlink" title="网站sidebar设置"></a>网站sidebar设置</h3><blockquote>
+<p>/layout/_macro/sidebar.swig    插入网易云音乐，放弃该操作，改为在个人页显示<br>/source/css/_common/components/sidebar/sidebar.styl</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;其实就是记录下自己修改Next主题的一些笔记&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="代码" scheme="http://chennuo.online/categories/%E4%BB%A3%E7%A0%81/"/>
+    
+    
+      <category term="hexo-Next主题" scheme="http://chennuo.online/tags/hexo-Next%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TestCode</title>
+    <link href="http://chennuo.online/2017/03/11/testcode/"/>
+    <id>http://chennuo.online/2017/03/11/testcode/</id>
+    <published>2017-03-11T15:17:54.000Z</published>
+    <updated>2017-03-13T01:03:50.134Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="第一行代码？"><a href="#第一行代码？" class="headerlink" title="第一行代码？"></a>第一行代码？</h1><!-- 标签 方式，要求版本在0.4.5或以上 -->
+<blockquote class="blockquote-center"><p>千里之行，始于足下</p>
+</blockquote>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">void</span> <span class="title">code</span><span class="params">()</span></span>&#123;</div><div class="line">    system.out.println(<span class="string">"hello world"</span>);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;第一行代码？&quot;&gt;&lt;a href=&quot;#第一行代码？&quot; class=&quot;headerlink&quot; title=&quot;第一行代码？&quot;&gt;&lt;/a&gt;第一行代码？&lt;/h1&gt;&lt;!-- 标签 方式，要求版本在0.4.5或以上 --&gt;
+&lt;blockquote class=&quot;blockquot
+    
+    </summary>
+    
+      <category term="代码" scheme="http://chennuo.online/categories/%E4%BB%A3%E7%A0%81/"/>
+    
+    
+      <category term="code" scheme="http://chennuo.online/tags/code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nice Day</title>
+    <link href="http://chennuo.online/2017/03/11/NiceDay/"/>
+    <id>http://chennuo.online/2017/03/11/NiceDay/</id>
+    <published>2017-03-11T09:27:50.000Z</published>
+    <updated>2017-03-13T01:03:50.128Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1489311432436&amp;di=dfc6962021ac463224da33e58f0051ba&amp;imgtype=0&amp;src=http%3A%2F%2Fpic4.zhimg.com%2Fd4c1239e75c02e8482c22017a6c8d407_r.jpg" alt=""></p>
+<blockquote><p>很高兴自己的博客终于初具雏形。一切都还在完善之中。<br>期待更多的功能被加入进来。   </p>
+</blockquote>
+<ul>
+<li>主题</li>
+<li>登陆</li>
+<li>留言</li>
+<li>打赏</li>
+<li>more and more</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://timgsa.baidu.com/timg?image&amp;amp;quality=80&amp;amp;size=b9999_10000&amp;amp;sec=1489311432436&amp;amp;di=dfc6962021ac463224da33e58f
+    
+    </summary>
+    
+      <category term="生活" scheme="http://chennuo.online/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="live" scheme="http://chennuo.online/tags/live/"/>
+    
+  </entry>
+  
+</feed>

@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[Next主题修改心得]]></title>
+      <url>%2F2017%2F03%2F13%2FNext%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%BF%83%E5%BE%97%2F</url>
+      <content type="text"><![CDATA[其实就是记录下自己修改Next主题的一些笔记 网站标题设置 /source/css/_schemes/Muse/_logo.styl.site-title 网站副标题设置 /source/css/_common/components/header/site-meta.styl.site-subtitle 网站banner设置 /layout/_partials/header.swig/source/css/_schemes/Muse/_logo.styl 背景图url设置关于banner，我是在header.swig中重新布局的，仅针对Muse主题。其中的设计来自夏末,也就是next主题作者的banner 如果有人知道那个背景跟随鼠标移动式怎么实现的，还希望能得到分享 网站sidebar设置 /layout/_macro/sidebar.swig 插入网易云音乐，放弃该操作，改为在个人页显示/source/css/_common/components/sidebar/sidebar.styl]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[TestCode]]></title>
       <url>%2F2017%2F03%2F11%2Ftestcode%2F</url>
       <content type="text"><![CDATA[第一行代码？ 千里之行，始于足下 123void code()&#123; system.out.println("hello world");&#125;]]></content>
