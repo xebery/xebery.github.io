@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chennuo.online/"/>
-  <updated>2017-03-14T10:03:09.852Z</updated>
+  <updated>2017-03-15T09:37:04.921Z</updated>
   <id>http://chennuo.online/</id>
   
   <author>
@@ -16,13 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Next主题修改心得</title>
-    <link href="http://chennuo.online/2017/03/13/Next%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%BF%83%E5%BE%97/"/>
-    <id>http://chennuo.online/2017/03/13/Next主题修改心得/</id>
+    <title>博客修改心得</title>
+    <link href="http://chennuo.online/Next%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9%E5%BF%83%E5%BE%97/"/>
+    <id>http://chennuo.online/Next主题修改心得/</id>
     <published>2017-03-13T15:52:36.000Z</published>
-    <updated>2017-03-14T10:03:09.852Z</updated>
+    <updated>2017-03-15T09:37:04.921Z</updated>
     
-    <content type="html"><![CDATA[<p>其实就是记录下自己修改Next主题的一些笔记</p>
+    <content type="html"><![CDATA[<p>其实就是记录下自己修改博客相关内容和Next主题的一些笔记</p>
 <a id="more"></a>
 <h3 id="网站标题设置"><a href="#网站标题设置" class="headerlink" title="网站标题设置"></a>网站标题设置</h3><blockquote>
 <p>/source/css/_schemes/Muse/_logo.styl<br>.site-title</p>
@@ -37,11 +37,14 @@
 <h3 id="网站sidebar设置"><a href="#网站sidebar设置" class="headerlink" title="网站sidebar设置"></a>网站sidebar设置</h3><blockquote>
 <p>/layout/_macro/sidebar.swig    插入网易云音乐，放弃该操作，改为在个人页显示<br>/source/css/_common/components/sidebar/sidebar.styl</p>
 </blockquote>
+<h3 id="网站Seo相关设置"><a href="#网站Seo相关设置" class="headerlink" title="网站Seo相关设置"></a>网站Seo相关设置</h3><blockquote>
+<p>link： <a href="http://www.jianshu.com/p/86557c34b671" target="_blank" rel="external">http://www.jianshu.com/p/86557c34b671</a></p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;其实就是记录下自己修改Next主题的一些笔记&lt;/p&gt;
+      &lt;p&gt;其实就是记录下自己修改博客相关内容和Next主题的一些笔记&lt;/p&gt;
     
     </summary>
     
@@ -54,8 +57,8 @@
   
   <entry>
     <title>TestCode</title>
-    <link href="http://chennuo.online/2017/03/11/testcode/"/>
-    <id>http://chennuo.online/2017/03/11/testcode/</id>
+    <link href="http://chennuo.online/testcode/"/>
+    <id>http://chennuo.online/testcode/</id>
     <published>2017-03-11T15:17:54.000Z</published>
     <updated>2017-03-13T01:03:50.134Z</updated>
     
@@ -81,8 +84,8 @@
   
   <entry>
     <title>Nice Day</title>
-    <link href="http://chennuo.online/2017/03/11/NiceDay/"/>
-    <id>http://chennuo.online/2017/03/11/NiceDay/</id>
+    <link href="http://chennuo.online/NiceDay/"/>
+    <id>http://chennuo.online/NiceDay/</id>
     <published>2017-03-11T09:27:50.000Z</published>
     <updated>2017-03-13T01:03:50.128Z</updated>
     
