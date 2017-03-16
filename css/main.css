@@ -1820,7 +1820,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #26ff42;
+  background: #5cc8a3;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2623,7 +2623,7 @@ embed {
   background: #fff;
 }
 .header {
-  background-image: url("http://ww4.sinaimg.cn/large/8725b930gw1elsiq064ebj21gs0p01kx.jpg");
+  background-image: url("/images/huoying_banner.jpg");
 }
 @media (max-width: 767px) {
   .site-nav {
