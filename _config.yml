@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Chen_Nuo's Blog
-subtitle: 小打小闹，总是新的开始
-description: technology develop
-author: 晨诺
+title: Xebery's Blog
+subtitle: Once a Gooner, always a Gooner.
+description: xeb hexo blog
+author: xebery
 language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://chennuo.online
+url: http://yoursite.com
 root: /
 permalink: :year/:title/
 permalink_defaults:
@@ -69,8 +69,8 @@ theme: hexo-theme-next-5.1.0
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/xuchengcan/xuchengcan.github.io.git
-  branch: master
+  repo: https://github.com/xebery/xebery.github.io.git
+  branch: hexo
 
 #搜索功能，field：all为全局搜索，post仅搜索post文章
 # 需要先安装插件：
